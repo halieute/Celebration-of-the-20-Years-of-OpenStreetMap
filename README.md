@@ -13,7 +13,7 @@ To run the code and generate the maps:
 1. Clone this repository.
 2. Install the necessary dependencies.
 2. Run the script 20YearsOpenStreetMap.ipynb to generate the maps.
-3. 
+
 # Licence
 
 This project is licensed under the MIT Licence. See the LICENSE file for more details.
